@@ -1,10 +1,10 @@
 {
-  "name": "eslint-config-semistandard",
-  "description": "eslint sharable config for semistandard",
+  "name": "eslint-config-semifour-standard",
+  "description": "eslint sharable config for semifour-standard",
   "version": "7.0.0",
-  "author": "Dan Flettre <fletd01@yahoo.com>",
+  "author": "Kevin Sullivan",
   "bugs": {
-    "url": "https://github.com/Flet/eslint-config-semistandard/issues"
+    "url": "https://github.com/kevsul/eslint-config-semifour-standard/issues"
   },
   "devDependencies": {
     "eslint": "^3.4.0",
@@ -14,7 +14,7 @@
     "tap-spec": "^4.0.0",
     "tape": "^4.6.0"
   },
-  "homepage": "https://github.com/Flet/eslint-config-semistandard",
+  "homepage": "https://github.com/kevsul/eslint-config-semifour-standard",
   "keywords": [
     "semistandard",
     "style checker",
@@ -46,7 +46,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Flet/eslint-config-semistandard.git"
+    "url": "https://github.com/kevsul/eslint-config-semifour-standard.git"
   },
   "scripts": {
     "test": "standard && tape test/*.js | tap-spec"
